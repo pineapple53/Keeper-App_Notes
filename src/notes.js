@@ -23,5 +23,11 @@ const notes = [
     content:
       "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software.",
   },
+  {
+    key: 5,
+    title: "Dark Mode",
+    content:
+      "Why do programmers prefer dark mode? \n Because light attracts bugs!",
+  },
 ];
 export default notes;
